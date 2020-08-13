@@ -14,17 +14,17 @@ Dr. Shishir Kumar Shandilya (Division Head, Cyber Security and Digital Forensics
 
 ### Main Team
 
-Akash Vats (Team Lead)
-Ayush Mukherjee (Web dev)
-Shayak Sarkar (Lead programmer)
-Nikhil Vijay Anand (Programmer)
-Souvik Maity (Programmer)
-Aditya Raj Handa (Progammer)
-Harshit Chaturvedi (Programmer)
+- Akash Vats (Team Lead)
+- Ayush Mukherjee (Web dev)
+- Shayak Sarkar (Lead programmer)
+- Nikhil Vijay Anand (Programmer)
+- Souvik Maity (Programmer)
+- Aditya Raj Handa (Progammer)
+- Harshit Chaturvedi (Programmer)
 
 ### Additional help
 
-Aseem Pandya
-Pragya Singh
-Soumya Tiwari
-Jyotsna Tiwari
+- Aseem Pandya
+- Pragya Singh
+- Soumya Tiwari
+- Jyotsna Tiwari
